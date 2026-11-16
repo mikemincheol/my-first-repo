@@ -1,2 +1,15 @@
-# my-first-repo
-나의 첫 번째 레포!
+# 내 첫 번째 저장소
+
+자기소개를 위한 저장소입니다.
+
+## 사용한 것
+- HTML
+- 내 아이디어
+
+## 더 보기
+[내 깃허브 보러 가기](https://github.com/내아이디)
+
+![고양이 사진](https://cataas.com/cat/kitten)
+
+**아직 만드는 중이에요!**
+<img width="468" height="400" alt="image" src="https://github.com/user-attachments/assets/b1129e26-37a3-4cf3-a44d-8c9d87c07e63" />
