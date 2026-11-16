@@ -1,4 +1,5 @@
 import streamlit as st
 
-색 = st.color_picker("병아리에게 입힐 색을 골라 보세요", "#FFD400")
-st.markdown(f"<h3 style='color:{색}'>이 색 옷을 입은 병아리, 어때요?</h3>", unsafe_allow_html=True)
+간식 = st.selectbox("병아리에게 줄 간식은?", ["좁쌀", "옥수수", "상추", "물"])
+이모지 = {"좁쌀": "🌾", "옥수수": "🌽", "상추": "🥬", "물": "💧"}
+st.write(f"냠냠! 병아리가 {이모지[간식]} {간식}을(를) 맛있게 먹어요.")
